@@ -1,6 +1,7 @@
 # 🏆 MaduMiner – Prototype jeu de gestion minière 2D Far West Steampunk
 
-![screenshot](https://user-images.githubusercontent.com/123456789/placeholder.png)  
+![image](https://github.com/user-attachments/assets/49409a25-c3f9-4654-b48d-d3cd1da2d604)
+
 <sup>*(Ajoutez ici une capture d’écran du jeu)*</sup>
 
 ---
