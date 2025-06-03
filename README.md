@@ -44,3 +44,4 @@ git clone https://github.com/votre-utilisateur/maduminer.git
 cd maduminer
 # Place le fichier mine.php sur ton serveur PHP (XAMPP/WAMP)
 # Lance http://localhost/maduminer/mine.php dans le navigateur
+```
